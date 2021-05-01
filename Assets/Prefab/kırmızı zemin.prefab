@@ -13,10 +13,10 @@ GameObject:
   - component: {fileID: 785626893068528952}
   - component: {fileID: 785626893068528953}
   - component: {fileID: 785626893068528954}
-  - component: {fileID: 785626893068528955}
+  - component: {fileID: -9201018764712317778}
   m_Layer: 1
-  m_Name: Box (37)
-  m_TagString: Untagged
+  m_Name: "k\u0131rm\u0131z\u0131 zemin"
+  m_TagString: kKutu
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111,7 +111,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 126
   m_CollisionDetection: 0
---- !u!114 &785626893068528955
+--- !u!114 &-9201018764712317778
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -120,9 +120,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 785626893068528948}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b84ef467139375748a854235d8e20252, type: 3}
+  m_Script: {fileID: 11500000, guid: dd5c26b3845fbf54a9d3eba7cfd05c2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  material:
-  - {fileID: 2100000, guid: b6ec75cce277abc4da29cb053bbc4a37, type: 2}
-  - {fileID: 2100000, guid: 8a69419f30368bf448b1bfbef8f060aa, type: 2}
+  color: {fileID: 2100000, guid: 8a69419f30368bf448b1bfbef8f060aa, type: 2}
